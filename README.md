@@ -1,0 +1,2 @@
+# automatic_program_starter
+This project is referenced from the internet. Everyday when you start your pc, you start all the programs that you need for your project manually. Using this python program, you just open progeam once and when you open your pc again, just start this program, and all othre program you saved and started before will be started automatically. To reset, just delete "save.txt" file. Many other functionalities can be added. Please review this program.
